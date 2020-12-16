@@ -9,6 +9,8 @@
 // const fs = require('fs')
 
 // fs.writeFileSync('test.txt', 'This is data')
+// const data = fs.readFileSync('test.txt').toString()
+// console.log(data)
 // fs.appendFileSync('test.txt', '\nThis data is being append!')
 
 // ? Importing Local Modules
